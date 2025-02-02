@@ -1,5 +1,1 @@
-pandas
-pandas_stubs
-Pillow
-requests
 tensorflow==2.9.1
