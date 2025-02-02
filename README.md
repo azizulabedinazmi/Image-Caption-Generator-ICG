@@ -1,1 +1,1 @@
-# Image-Caption-Generator-ICG-
+# Image-Caption-Generator-ICG
