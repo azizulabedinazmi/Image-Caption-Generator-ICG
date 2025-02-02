@@ -4,7 +4,8 @@ pandas_stubs
 Pillow
 requests
 streamlit
-tensorflow
-numpy
+pip==24.3.1
+tensorflow==2.9.1
+numpy<2.0
 
 
