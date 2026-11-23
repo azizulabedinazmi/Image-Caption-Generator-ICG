@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/banner.svg" alt="Image Caption Generator banner" width="100%">
+</p>
+
 # 🖼️ Image-Caption-Generator-ICG
 
 🚀 **App Development Report**
